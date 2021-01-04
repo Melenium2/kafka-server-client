@@ -8,7 +8,7 @@ $ docker-compose up -d
 ```
 This command automatically installs kafka and zookeeper and starts them.
 Kafka default expose port `<you docker ip>:9092`
-### Go cleint and server
+### Go a client and server
 For install all dependencies run
 ```sh
 $ make get
